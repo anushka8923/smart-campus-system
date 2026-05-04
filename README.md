@@ -25,7 +25,7 @@ A MERN-based campus management platform for organizing college events, societies
 
 - `client` - React + Vite frontend
 - `server` - Express API and MongoDB models
-- `ai-service` - placeholder for future AI recommendation service
+- `ai-service` - ai-service - planned separate AI service; current recommendations are handled through backend recommendation routes
 - `docs` - planning and architecture notes
 
 ## Setup
